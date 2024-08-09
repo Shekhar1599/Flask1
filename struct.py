@@ -1,0 +1,9 @@
+flask_app/
+app/
+__init__.py
+app.py
+models/
+__init__.py
+data_processor.py
+requirements.txt
+README.md
